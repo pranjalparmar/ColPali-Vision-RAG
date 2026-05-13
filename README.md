@@ -1,6 +1,6 @@
 # ColPali RAG Visual Expert 
 
-**ColPali RAG Visual Expert ** is a Vision-RAG (Retrieval-Augmented Generation) application built to help users interact with complex PDF documents. Instead of relying only on text extraction, it uses visual retrieval so the system can understand charts, tables, and layouts as they appear on the page.
+**ColPali RAG Visual Expert** is a Vision-RAG (Retrieval-Augmented Generation) application built to help users interact with complex PDF documents. Instead of relying only on text extraction, it uses visual retrieval so the system can understand charts, tables, and layouts as they appear on the page.
 
 ## Overview
 
