@@ -2,6 +2,8 @@
 
 **ColPali RAG Visual Expert** is a Vision-RAG (Retrieval-Augmented Generation) application built to help users interact with complex PDF documents. Instead of relying only on text extraction, it uses visual retrieval so the system can understand charts, tables, and layouts as they appear on the page.
 
+Source Research Paper - [ColPali](https://arxiv.org/abs/2407.01449)
+
 ## Overview
 
 Traditional RAG pipelines often depend on OCR and plain text extraction, which can miss layout and visual context. ColPali is designed for document retrieval from visual page features, while Qwen2-VL can analyze retrieved page content as a vision-language model. 
