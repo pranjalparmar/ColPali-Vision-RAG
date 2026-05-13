@@ -1,6 +1,6 @@
-# ACC-RAG Visual Expert 👁️
+# ColPali RAG Visual Expert 
 
-**ACC-RAG Visual Expert** is a Vision-RAG (Retrieval-Augmented Generation) application built to help users interact with complex PDF documents. Instead of relying only on text extraction, it uses visual retrieval so the system can understand charts, tables, and layouts as they appear on the page.
+**ColPali RAG Visual Expert ** is a Vision-RAG (Retrieval-Augmented Generation) application built to help users interact with complex PDF documents. Instead of relying only on text extraction, it uses visual retrieval so the system can understand charts, tables, and layouts as they appear on the page.
 
 ## Overview
 
@@ -10,8 +10,8 @@ This project combines those ideas in a Streamlit interface so users can upload a
 
 ## Features
 
-- **Visual retrieval with ColPali**: Indexes PDF pages as visual representations instead of depending only on extracted text. [web:5]
-- **Vision-based answer generation with Qwen2-VL**: Analyzes the retrieved page, including tables, diagrams, and layout-aware content. [web:12]
+- **Visual retrieval with ColPali**: Indexes PDF pages as visual representations instead of depending only on extracted text.
+- **Vision-based answer generation with Qwen2-VL**: Analyzes the retrieved page, including tables, diagrams, and layout-aware content.
 - **Interactive Streamlit UI**: Provides a simple app interface for document upload, indexing, querying, and source preview. 
 - **Better handling of visually rich PDFs**: Useful for reports, scanned documents, charts, and presentation-style PDFs where layout matters. 
 
